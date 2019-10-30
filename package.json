@@ -1,0 +1,19 @@
+{
+  "name": "test-driven-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulMorrisCoder/test-driven-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulMorrisCoder/test-driven-react/issues"
+  },
+  "homepage": "https://github.com/PaulMorrisCoder/test-driven-react#readme"
+}
