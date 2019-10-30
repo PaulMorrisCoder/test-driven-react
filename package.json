@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/PaulMorrisCoder/test-driven-react/issues"
   },
-  "homepage": "https://github.com/PaulMorrisCoder/test-driven-react#readme"
+  "homepage": "https://github.com/PaulMorrisCoder/test-driven-react#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  }
 }
